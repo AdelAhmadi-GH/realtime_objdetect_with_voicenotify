@@ -1,7 +1,7 @@
-# Real-Time Object Detection with Voice Notificatio
+# Real-Time Object Detection with Voice Notification
 
 ## Table of Contents
-- [Real-Time Object Detection with Voice Notificatio](#real-time-object-detection-with-voice-notificatio)
+- [Real-Time Object Detection with Voice Notification](#real-time-object-detection-with-voice-notification)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies Used](#technologies-used)
