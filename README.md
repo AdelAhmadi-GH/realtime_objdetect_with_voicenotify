@@ -1,7 +1,7 @@
-# Real-Time Object Detection with Voice Notification for Smartphones
+# Real-Time Object Detection with Voice Notificatio for Smartphones
 
 ## Table of Contents
-- [Real-Time Object Detection with Voice Notification for Smartphones](#real-time-object-detection-with-voice-notification-for-smartphones)
+- [Real-Time Object Detection with Voice Notificatio for Smartphones](#real-time-object-detection-with-voice-notificatio-for-smartphones)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies Used](#technologies-used)
