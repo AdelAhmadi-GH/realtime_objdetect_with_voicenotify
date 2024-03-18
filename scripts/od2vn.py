@@ -31,6 +31,7 @@ results = model(image_path)
 
 # Load the image
 image = Image.open(image_path)
+
 W, H = image.size  # Get the width and height of the image
 
 # Image storage path with detected objects

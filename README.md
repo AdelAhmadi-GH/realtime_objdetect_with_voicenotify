@@ -30,7 +30,8 @@ This project aims to develop a real-time object detection system on smartphones 
 - **YOLOv8n:** For real-time object detection.
 - **Google Text-to-Speech (gTTS):** For generating voice notifications.
 - **Python:** Primary programming language.
-<!-- - **Android/iOS:** Target platforms for the application. -->
+- **Android/iOS:** Target platforms for the application.
+- **C++:** Utilized for working with C++ files and components within the project.
 
 ---
 
@@ -58,14 +59,18 @@ This project aims to develop a real-time object detection system on smartphones 
 ## Usage
 
 ### Running the Detection
-To execute the detection script, run the following command in your terminal:
+- TODO
+
+<!-- To execute the detection script, run the following command in your terminal:
 `python your_script.py --image your_image_path.jpg --model your_model_path.pt`
 
-Make sure to replace `your_script.py`, `your_image_path.jpg`, and `your_model_path.pt` with the appropriate file names and paths.
+Make sure to replace `your_script.py`, `your_image_path.jpg`, and `your_model_path.pt` with the appropriate file names and paths. -->
 
 
 ### Voice Notification
-Detected objects along with their confidence levels and positions are automatically converted to voice notifications and played back to the user.
+- TODO
+
+<!-- Detected objects along with their confidence levels and positions are automatically converted to voice notifications and played back to the user. -->
 
 ---
 
@@ -97,15 +102,19 @@ To assess the effectiveness of our real-time object detection and voice notifica
 ## Project Milestones Schedule
 | Nr. | Milestones | Completion Date |
 |-----|------------|-----------------|
-| 1   | Conduct a literature review and examine existing research in the field of object detection and text-to-speech systems. | TBD |
-| 2   | Define and select evaluation criteria for YOLO software and other object detection software. | TBD |
-| 3   | Install and test YOLO software on smart devices and measure response time. | TBD |
-| 4   | Install text-to-speech software on mobile phones and measure response time. | TBD |
-| 5   | Establish a connection between YOLO software and text-to-speech software and check the interaction between them. | TBD |
-| 6   | Perform tests and measure the detection rate and response time on a baseline dataset. | TBD |
-| 7   | Compare the performance of YOLO software with other object detection software on mobile platforms. | TBD |
-| 8   | Write the conclusions and suggestions for future research and for the master's thesis. | TBD |
-| 9   | Prepare project documentation and appendices. | TBD |
+| **1**   | **Theory (Literature Review)** | **TBD** |
+| 1.1 | OD: Evaluation of Object Detection Software | **TBD** |
+| 1.2 | OD: Define Metrics for YOLO | **TBD** |
+| 1.3 | OD: Compare YOLO with Other Software | **TBD** |
+| 1.4 | TTS: Evaluation of Text-to-Speech Software| **TBD** |
+| 1.5 | TTS: Define Metrics for Text-to-Speech Software | **TBD** |
+| **2**  | **Practical (Implementation)** | **TBD** |
+| 2.1 | YOLO Installation and Runtime Metrics Measurement | **TBD** |
+| 2.2 | TTS Installation and Runtime Metrics Measurement | **TBD** |
+| 2.3 | Prototype Development of OD Program with Vocal Feedback (*Integration of YOLO and TTS*) | **TBD** |
+| 2.4 | Measurement of Detection Rate and Response Time | **TBD** |
+| **3**  | **Conclusions and Suggestions** | **TBD** |
+| 3.1 | Prepare Project Documentation and Appendices | **TBD** |
 
 *Note: Completion dates are to be determined (TBD) and will be updated as the project progresses.*
 

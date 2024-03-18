@@ -1,2 +1,6 @@
 # Ignore output directories
 outputs/
+data/
+scripts/jupyter/
+scripts/.ipynb_checkpoints/
+scripts/measurements/
